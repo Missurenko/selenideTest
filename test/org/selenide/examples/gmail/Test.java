@@ -15,14 +15,6 @@ public class Test extends GmailTests {
 
     @org.junit.Test
     public void test() {
-        $(By.linkText("Увійти")).click();
-        $("input").setValue("work.b.missurenko@gmail.com");
-        $("input").pressEnter();
-        $("#password input").val(gmailPassword).pressEnter();
-        $("#gbwa").find("a").click();
-        $("#gb49").click();
-        $(".uw8t2").waitUntil(Condition.visible, 60000).click();
-        $(".l-u-Ab-zb-Pn-ve").click();
-        String ss = "";
+
     }
 }
