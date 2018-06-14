@@ -13,7 +13,7 @@ import java.util.concurrent.TimeUnit;
  */
 public class TestSelenium {
 
-    private final String patch = "chromedriver.exe";
+    private final String patch = "drivers/chromedriver.exe";
 
     private final String loginName = "work.b.missurenko@gmail.com";
 
