@@ -22,7 +22,7 @@ public class Test extends GmailTests {
         $("#gbwa").find("a").click();
         $("#gb49").click();
         $(".uw8t2").waitUntil(Condition.visible, 60000).click();
-        $(".l-u-Ab-zb-Pn-ve").click();
+//        $(".l-u-Ab-zb-Pn-ve").click();
         String ss = "";
     }
 }
